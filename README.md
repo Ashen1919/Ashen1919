@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying on **Saegis Campus**
 
-- 🌱 I’m currently learning **MERN | Java**
+- 🌱 I’m currently learning **MERN | Python**
 
 - 📫 How to reach me **ashengimhana58@gmail.com**
 

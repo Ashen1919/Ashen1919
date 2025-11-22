@@ -32,6 +32,9 @@
 </tr>
 </table>
 <!--- stats (end) -->
+<!-- Roadmap card -->
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6921783a467651eddb897ad6?variant=dark" alt="roadmap.sh"/></a>
+<!-- End Roadmap card -->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->

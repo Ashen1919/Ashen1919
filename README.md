@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashen Dissanayaka</h1>
-<h3 align="center">DevOps & Cloud Enthusiast |Aspiring Software Developer | Full-Stack Web Development</h3>
+<h3 align="center">DevOps & Cloud Enthusiast | Aspiring Software Developer | Full-Stack Web Development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashen1919&label=Profile%20views&color=0e75b6&style=flat" alt="ashen1919" /> </p>
 
